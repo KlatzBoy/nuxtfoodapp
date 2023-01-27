@@ -4,6 +4,8 @@ A mockup foof app made with nuxt. Following the workshop by Sarah Drasner on Fro
 
 original repo: https://github.com/sdras/building-web-apps-with-vue
 
+to see online @: https://studioklatz.com/vue/nuxtfoodapp
+
 
 ## Build Setup
 
